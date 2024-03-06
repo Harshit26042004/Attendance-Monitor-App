@@ -24,6 +24,4 @@ Things to be implemented in the app to make it fully functional:
 * Editing students' profile
 * Changing Attendance status of student while viewing the report.
 
-### Contribution
-You can directly contribute to the project to improve existing features or adding new features. Pull some requests!
 
